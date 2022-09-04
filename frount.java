@@ -34,7 +34,7 @@ class Window //implements ActionListner
 {
 	public Window()
 	{
-		JFrame f=new JFrame("Deepak's Login");
+		JFrame f=new JFrame("Dineshkumar's Login");
 		
 		JButton bobj=new JButton("Submit");
 		bobj.setBounds(100,200,140,40);
